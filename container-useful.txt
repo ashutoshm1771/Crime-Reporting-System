@@ -1,0 +1,194 @@
+<div id="container" class="wrapper-container">
+<div class="corner-top-left">
+<div class="corner-top-right">
+<div class="corner-bottom-left">
+<div class="corner-bottom-right">
+<div class="clear">
+
+<table class="blog" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top">
+
+<div>
+<div class="wrapper-title">
+<div class="bull-title ">
+<table class="contentpaneopen">
+<tbody><tr>
+<td class="contentheading" 
+width="100%">                        Lorem Ipsum dolore                 
+
+<div class="article-info">
+<div 
+class="small">
+Written by Administrator            
+</div>
+<div 
+class="createdate"> Saturday, 07 July 2007 09:54 </div>
+</div>
+
+
+</td>
+<td 
+width="100%"><div class="icon-indent">
+<table>
+<tbody><tr>
+<td
+class="buttonheading" align="right" width="100%"><a 
+href=""
+title="PDF" 
+rel="nofollow"><img 
+src="files/pdf_button.png" alt="PDF"></a>
+</td>
+
+<td class="buttonheading" 
+align="right" width="100%"><a 
+href="" rel="nofollow"><img 
+src="files/printButton.png" alt="Print"></a>
+</td>
+
+<td class="buttonheading" 
+align="right" width="100%"><a 
+href=""><img 
+src="files/emailButton.png" alt="E-mail"></a>
+</td>
+
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div class="article-indent">
+<div class="clear">
+<table class="contentpaneopen">
+<tbody><tr>
+<td colspan="2" valign="top"><strong>Nonummy 
+hendrerit maurihasellus portausce suscipitent</strong> varius mumc 
+natoque penatibus magnis parturient montes nascetur ridiculus mulla 
+duseugiat.Nonummy hendrerit maurihasellus portausce suscipitent va 
+mumciis natoque penatibus magnis.
+<div>                    </div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="border-link"> <a 
+href=""
+class="readon">
+Read More                            </a> </div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div class="article-separator-indent"><span 
+class="article_separator">&nbsp;</span></div>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+
+<td class="article_column" valign="top" width="100%">
+
+<div class="wrapper-title">
+<div class="bull-title ">
+<table class="contentpaneopen">
+<tbody><tr>
+<td class="contentheading" 
+width="100%">                        Commente Dolore Partu              
+
+<div class="article-info">
+<div 
+class="small">
+Written by Administrator            
+</div>
+<div 
+class="createdate"> Saturday, 07 July 2007 09:54 </div>
+</div>
+
+
+</td>
+<td 
+width="100%"><div class="icon-indent">
+<table>
+<tbody><tr>
+<td
+class="buttonheading" align="right" width="100%"><a 
+href="" rel="nofollow"><img 
+src="files/pdf_button.png" alt="PDF"></a>
+</td>
+
+<td class="buttonheading" 
+align="right" width="100%"><a 
+href="?" rel="nofollow"><img 
+src="files/printButton.png" alt="Print"></a>
+</td>
+
+<td class="buttonheading" 
+align="right" width="100%"><a 
+href=""><img 
+src="files/emailButton.png" alt="E-mail"></a>
+</td>
+
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div class="article-indent">
+<div class="clear">
+<table class="contentpaneopen">
+<tbody><tr>
+<td colspan="2" valign="top"><div class="col-box 
+col-separator clear">
+<div class="col-1 fleft">
+<div class="clear">
+<img src="files/1page_img_1.jpg"
+class="img-indent" alt="">
+<strong>Lorem ipsum tent</strong> lore mumc natoque penati 
+buslore mumc natoque penati bus magnis partu rient.
+</div>
+</div>
+<div class="col-2 fleft">
+<div class="clear">
+<img src="files/1page_img_2.jpg"
+class="img-indent" alt="">
+<strong>Suscipitent variu </strong> lore mumc natoque penati
+buslore mumc natoque penati bus magnis partu rient.
+</div>
+</div>
+</div>
+<div>                    </div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="border-link"> <a 
+href=""
+class="readon">
+Read More                            </a> </div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div class="article-separator-indent"><span 
+class="article_separator">&nbsp;</span></div>
+
+</td>
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+</tbody></table>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
